@@ -96,7 +96,7 @@ test/
 From the project root:
 
 ```bash
-javac *.java
+javac src\*.java
 ```
 
 ---
